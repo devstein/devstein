@@ -30,7 +30,7 @@ https://github.com/picketapi
 
 ## [YCRM](https://ycrm.xyz/)
 
-[YCRM](https://ycrm.xyz/?utm_source=community_update&utm_medium=email) makes it simple to get in touch with YC founders for sales, research, recruiting, advice, or anything else!
+[YCRM](https://ycrm.xyz/) makes it simple to get in touch with YC founders for sales, research, recruiting, advice, or anything else!
 
 Every day YCRM scrapes information from the YC Startup Directory and enhances it with the founders' contact information, like emails and social links. YCRM handles the grunt work of email validation and structuring it into a CRM-compatible format, so companies can focus on what matters to their business. YCRM has validated 5000+ founders' contact information and counting.
 
