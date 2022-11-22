@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devstein&count_private=true&show_icons=true&theme=onedark" />
-
 Hi 👋
 
 
@@ -95,3 +93,7 @@ https://github.com/devstein/nnmbl
 More coming soon...
 
 https://github.com/shared-recruiting-co
+
+--- 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devstein&count_private=true&show_icons=true&theme=onedark" />
