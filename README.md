@@ -18,6 +18,13 @@ Hi 👋
 
 All of these projects are made with 💙 in [Neovim](https://github.com/devstein/vim)
 
+
+## [Shared Recruiting Co. (SRC)](https://sharedrecruiting.co/)
+
+The Shared Recruiting Company, SRC (pronounced "source"), is an open source, candidate-centric recruiting platform. SRC promotes two-way, opt-in communication between candidates and companies. 🤝
+
+https://github.com/shared-recruiting-co/shared-recruiting-co
+
 ## [Picket](https://picketapi.com/)
 
 Picket is a multi-chain, wallet-based identity provider.  Picket allows you to authenticate user using their wallet address and authorize them based of their token holdings (aka token gating).
@@ -87,12 +94,6 @@ Without accounting for timing, outbound recruiting wastes both candidates' and c
 nnmbl was a playground for me to experiment with new frameworks (Svelte, Supabase, Tailwind, daisyUI) and validating a new product idea as quickly as possible. nnmbl only exists as a landing page, but the ideas behind it live on in the [Shared Recruiting Co.](https://github.com/shared-recruiting-co)
 
 https://github.com/devstein/nnmbl
-
-## Shared Recruiting Co. (SRC)
-
-More coming soon...
-
-https://github.com/shared-recruiting-co
 
 --- 
 
