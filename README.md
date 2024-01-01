@@ -18,6 +18,22 @@ Hi 👋
 
 All of these projects are made with 💙 in [Neovim](https://github.com/devstein/vim)
 
+## [Dosu](https://dosu.dev)
+
+Dosu's vision is to make engineering accessible to everyone. Like an engineering teammate, Dosu uses its understanding of code and code changes to answer undocumented questions from sales, triage customer-facing bugs with support, collaborate on release notes with product, and more.
+
+Our [Github app](https://github.com/apps/dosubot) helps open source maintainers encourage contributors, organize issues, triage bugs, answer questions, etc. 
+
+### Community Reactions
+
+- ["The bot is right!"](https://github.com/run-llama/llama_index/issues/7684#issuecomment-1721430612)
+- ["Yes, that was the problem, I can confirm it works fine now!"](https://github.com/langchain-ai/langchain/issues/13115#issuecomment-1803510213)
+- [“Thanks jinja2 worked perfectly.”](https://github.com/langchain-ai/langchain/issues/13055#issuecomment-1801778473)
+- ["Thank you, you have been very helpful."](https://github.com/astronomer/astronomer-cosmos/issues/670#issuecomment-1809333870)
+
+
+
+https://github.com/dosu-ai
 
 ## [Shared Recruiting Co. (SRC)](https://sharedrecruiting.co/)
 
